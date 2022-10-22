@@ -1,0 +1,60 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: Lexend Deca, sans-serif;
+    background-color: #191919;
+    color: whitesmoke;
+}
+
+.header {
+    margin-top: 2%;
+    padding-bottom: 1%;
+    justify-content: space-between;
+    display: flex;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.me {
+    margin-left: 25px;
+}
+
+.git {
+    margin-right: 15px;
+}
+
+.social {
+    text-decoration: none;
+    font-style: normal;
+    color: #363636;
+    display: flex;
+    margin-right: 25px;
+}
+
+.content {
+    margin: 2px;
+    padding: 20px;
+    padding-top: 70px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 5rem;
+    background: linear-gradient(to right, #FCF7FF,
+            #C4CAD0, #878C8F, #A4969B, #655560);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+p {
+    font-size: 20px;
+    padding-top: 0.7rem;
+}
