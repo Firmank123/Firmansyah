@@ -30,6 +30,18 @@ a {
     margin-right: 15px;
 }
 
+.git img {
+    width: 15px;
+    height: 15px;
+    margin-right: 3px;
+}
+
+.tg img {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
 .social {
     text-decoration: none;
     font-style: normal;

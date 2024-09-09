@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    margin-top: 2%;
+    margin-left: 25px;
+    font-family: Lexend Deca, sans-serif;
+    color: whitesmoke;
+}
+
+body {
+    font-family: Lexend Deca, sans-serif;
+    background-color: #191919;
+    color: whitesmoke;
+}
+
+.profile {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
